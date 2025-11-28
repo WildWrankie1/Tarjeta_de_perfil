@@ -10,14 +10,14 @@ Este proyecto es una tarjeta de perfil con efecto translúcido usando HTML y CSS
 
 ## Estructura del proyecto
 
-- `index.html`: archivo principal con la estructura HTML.
+- `perfil.html`: archivo principal con la estructura HTML.
 - `css/estilo.css`: estilos para la tarjeta y animaciones.
 - `imagenes/perfil.jpg`: imagen de perfil.
 
 ## Cómo usar
 
 1. Clonar o descargar el repositorio.
-2. Abrir `index.html` en el navegador.
+2. Abrir `perfil.html` en el navegador.
 3. Modificar estilos o contenido según necesites.
 
 ---
